@@ -1,2 +1,3 @@
-# FYP_ML_SIC
-Final Year Project for BSc(Eng) Mechatronics at the University of Cape Town: Machine learning applied to sea ice concentration estimation from SAR data.
+# Project Report
+
+This is the final report PDF submitted for evaluation. All aspects of the project are explained in detail, including the relevance of other documents in this repository.

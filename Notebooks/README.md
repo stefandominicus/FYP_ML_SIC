@@ -1,2 +1,3 @@
-# FYP_ML_SIC
-Final Year Project for BSc(Eng) Mechatronics at the University of Cape Town: Machine learning applied to sea ice concentration estimation from SAR data.
+# Notebooks
+
+These three Python notebooks contain all the code used in this project. Each notebook covers a section of the overall processing pipeline, and should be run on Google Colaboratory. See the project report for more details.
