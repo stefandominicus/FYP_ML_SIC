@@ -1,6 +1,7 @@
 # Final Year Project
 BSc(Eng) Mechatronics, University of Cape Town
-<a href="https://youtu.be/I_Tl-4uXTvs" target="_blank">Video Overview<\a>
+
+<a href="https://youtu.be/I_Tl-4uXTvs" target="_blank">Video Overview</a>
 
 ## Project Title
 Machine learning applied to sea ice concentration estimation from SAR data.
